@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jean de Dieu NSHIMYUMUKIZA</h1>
-<img align="center" src="https://github.com/jodosjodos/jodosjodos/assets/115969468/37a66740-d3d5-4566-ab9c-a827d13da658" alt="jodosjodos" />
+
 <h3 align="center">I'm a passionate full-stack developer based in Rwanda with extensive coding experience. Eager to bring innovative ideas to life, I thrive in the dynamic tech landscape of Rwanda. Let's connect and explore exciting projects together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jodosjodos&label=Profile%20views&color=0e75b6&style=flat" alt="jodosjodos" /> </p>
