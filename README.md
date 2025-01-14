@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/jodos" target="blank"><img src="https://img.shields.io/twitter/follow/jodos?logo=twitter&style=for-the-badge" alt="jodos" /></a> </p>
 
-- 🔭 I’m currently working on [atomize](https://github.com/jodosjodos/atomize)
+- 🔭 I’m currently working on evoq
 
 - 👨‍💻 All of my projects are available at [https://jodos-portifolio.vercel.app/](https://jodos-portifolio.vercel.app/)
 
