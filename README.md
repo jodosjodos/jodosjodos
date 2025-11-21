@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on evoq
 
-- 👨‍💻 All of my projects are available at [https://jodos-portifolio.vercel.app/](https://jodos-portifolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://nshimyumukiza.pages.dev/)
 
 - 📫 How to reach me **jeandedieu2030@gmail.com**
 
