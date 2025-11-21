@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **jeandedieu2030@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zkYO_PjVepvgF7GPN_6PRUcMcomxh8Jv/view?usp=drive_link](https://docs.google.com/document/d/14n0kQXCexGpfRYg5wLDfsgXVcs58veUW_jdgwlSfJnI/edit?tab=t.0#heading=h.hnirjcq15qty)
+- 📄 Know about my experiences [resume](https://docs.google.com/document/d/14n0kQXCexGpfRYg5wLDfsgXVcs58veUW_jdgwlSfJnI/edit?tab=t.0#heading=h.hnirjcq15qty)
 
 - ⚡ Fun fact **teach me then I learn**
 
